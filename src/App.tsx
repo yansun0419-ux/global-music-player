@@ -1,4 +1,3 @@
-import React from "react";
 import PlayerBar from "./components/layout/PlayerBar";
 
 const App = () => {
