@@ -1,7 +1,8 @@
 @import "tailwindcss";
 
 @theme {
-  --color-bg-primary: #1a1a20;
+  --color-bg-primary: #13131a;
+  --color-bg-secondary: #1a1a20;
 
   --color-text-primary: #fff;
   --color-text-secondary: #cfcfd1;
@@ -15,8 +16,4 @@
   --color-progress-bar-bg-active: #42424a;
   --color-progress-bar-text: #fff;
   --color-progress-bar-tooltip: #1a1a20;
-  --color-progress-bar-overlay: gradient(
-    to top; rgba(26, 26, 32, 0) 0%,
-    rgba(26, 26, 32, 0.8) 100%
-  );
 }

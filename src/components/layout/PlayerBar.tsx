@@ -18,7 +18,7 @@ const PlayerBar = () => {
         <ProgressBar />
       </div>
 
-      <div className="w-full flex justify-between items-center mt-auto mb-auto">
+      <div className="w-full flex justify-between items-center mt-4">
         {/* left song info */}
         <div className="w-[35%] flex justify-start items-center pl-8 gap-3 ">
           <div className="w-18 h-18 bg-[linear-gradient(to_bottom_left,#17171a,#363636,#17171a)] rounded-full flex items-center justify-center flex-none shadow-md border border-neutral-900">
